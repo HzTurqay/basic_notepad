@@ -1,0 +1,28 @@
+# ninja log v5
+9	201	7143181485817492	basic_notepad_autogen/timestamp	36529e0bcfd28200
+9	201	7143181485817492	C:/my_files/Qt lessons/build-basic_notepad-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/basic_notepad_autogen/timestamp	36529e0bcfd28200
+814	2734	7143181210915065	CMakeFiles/basic_notepad.dir/main.cpp.obj	46a74460915c75a2
+9	201	7143181485817492	basic_notepad_autogen/mocs_compilation.cpp	36529e0bcfd28200
+9	201	7143181485817492	C:/my_files/Qt lessons/build-basic_notepad-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/basic_notepad_autogen/mocs_compilation.cpp	36529e0bcfd28200
+211	2088	7143181504609312	CMakeFiles/basic_notepad.dir/mainwindow.cpp.obj	240c6eb89856548
+812	2732	7143181210915065	CMakeFiles/basic_notepad.dir/basic_notepad_autogen/mocs_compilation.cpp.obj	7c5cf666c1431d72
+2089	2232	7143181506017903	basic_notepad.exe	258fa1f4c1209d8f
+0	20	0	CMakeFiles/clean.additional	baedbe210acaa455
+20	27	0	clean	577b940aee94fbd7
+4	532	7143182776399039	build.ninja	ee85c6e51f31e1b3
+15	626	7143182782136663	basic_notepad_autogen/timestamp	36529e0bcfd28200
+15	626	7143182782136663	basic_notepad_autogen/mocs_compilation.cpp	36529e0bcfd28200
+15	626	7143182782136663	C:/my_files/Qt lessons/build-basic_notepad-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/basic_notepad_autogen/timestamp	36529e0bcfd28200
+15	626	7143182782136663	C:/my_files/Qt lessons/build-basic_notepad-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/basic_notepad_autogen/mocs_compilation.cpp	36529e0bcfd28200
+631	2597	7143182803150309	CMakeFiles/basic_notepad.dir/basic_notepad_autogen/mocs_compilation.cpp.obj	74cd9928bf76ce8e
+629	2619	7143182803359760	CMakeFiles/basic_notepad.dir/main.cpp.obj	3515f6db130259ed
+627	2832	7143182805504017	CMakeFiles/basic_notepad.dir/mainwindow.cpp.obj	4294c1e61c87e599
+2832	2992	7143182807069830	basic_notepad.exe	b3491585f4dd54dd
+5	678	7143185819740150	basic_notepad_autogen/timestamp	36529e0bcfd28200
+5	678	7143185819740150	basic_notepad_autogen/mocs_compilation.cpp	36529e0bcfd28200
+5	678	7143185819740150	C:/my_files/Qt lessons/build-basic_notepad-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/basic_notepad_autogen/timestamp	36529e0bcfd28200
+5	678	7143185819740150	C:/my_files/Qt lessons/build-basic_notepad-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/basic_notepad_autogen/mocs_compilation.cpp	36529e0bcfd28200
+681	2408	7143185838369227	CMakeFiles/basic_notepad.dir/basic_notepad_autogen/mocs_compilation.cpp.obj	74cd9928bf76ce8e
+679	2411	7143185838398862	CMakeFiles/basic_notepad.dir/main.cpp.obj	3515f6db130259ed
+683	2598	7143185840234142	CMakeFiles/basic_notepad.dir/mainwindow.cpp.obj	4294c1e61c87e599
+2598	2747	7143185841731751	basic_notepad.exe	b3491585f4dd54dd
